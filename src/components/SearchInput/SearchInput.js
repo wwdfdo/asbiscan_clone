@@ -11,7 +11,7 @@ const SearchInput = () => {
         <select
           id="filter"
           name="filter"
-          className=" outline-none  rounded-tl-md rounded-bl-md px-2 "
+          className=" outline-none  rounded-tl-md rounded-bl-md px-2  border-r-[1px] border-black"
         >
           <option value="Addresses">All Filters</option>
           <option value="Addresses">Addresses</option>
