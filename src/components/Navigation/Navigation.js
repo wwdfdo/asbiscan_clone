@@ -1,7 +1,12 @@
 import React from "react";
+import Megamenu from "../../components/MegaMenu/MegaMenu";
 
 const Navigation = () => {
-  return <div>Navigation</div>;
+  return (
+    <>
+      <Megamenu />
+    </>
+  );
 };
 
 export default Navigation;
