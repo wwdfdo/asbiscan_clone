@@ -8,7 +8,7 @@ function MegaMenu() {
   return (
     <div className="group z-100 h-[100%] flex items-center">
       <ul>
-        <li className="rounded-sm px-8 py-1 ">Home</li>
+        <li className="rounded-sm px-8 py-1 cursor-pointer ">Home</li>
       </ul>
       <ul className="relative">
         <li className="rounded-sm  px-8 py-3 ">
@@ -30,16 +30,22 @@ function MegaMenu() {
   min-w-[18rem] py-5 border-t-[3px] border-t-blue-600 z-50
   "
           >
-            <li className="px-6 py-1 hover:bg-gray-100">Transactions</li>
-            <li className="  px-6 py-1 hover:bg-gray-100">
+            <li className="px-6 py-1 hover:bg-gray-100 cursor-pointer ">
+              Transactions
+            </li>
+            <li className="  px-6 py-1 hover:bg-gray-100 cursor-pointer">
               Latest L1→L2 Transactions
             </li>
-            <li className="px-6 py-1 ">Latest L2→L1 Transactions</li>
-            <li className="px-6 py-1 ">Contract Internal Transactions</li>
-            <li className="px-6 py-1 ">View Block</li>
-            <li className="px-6 py-1 ">View Batches</li>
-            <li className="px-6 py-1 ">Top Accounts</li>
-            <li className="px-6 py-1 ">Verify Contacts</li>
+            <li className="px-6 py-1 cursor-pointer ">
+              Latest L2→L1 Transactions
+            </li>
+            <li className="px-6 py-1 cursor-pointer ">
+              Contract Internal Transactions
+            </li>
+            <li className="px-6 py-1 cursor-pointer ">View Block</li>
+            <li className="px-6 py-1 cursor-pointer ">View Batches</li>
+            <li className="px-6 py-1 cursor-pointer ">Top Accounts</li>
+            <li className="px-6 py-1 cursor-pointer ">Verify Contacts</li>
           </ul>
         </li>
       </ul>
@@ -67,10 +73,12 @@ function MegaMenu() {
             <li className="px-6 py-1 hover:bg-gray-100">
               View ERC20 Transfers
             </li>
-            <li className="px-6 py-1 ">ERC721 Top Tokens</li>
-            <li className="px-6 py-1 ">View ERC721 Transfers</li>
-            <li className="px-6 py-1 ">ERC1155 Top Tokens</li>
-            <li className="px-6 py-1 ">View ERC1155 Transfers</li>
+            <li className="px-6 py-1 cursor-pointer ">ERC721 Top Tokens</li>
+            <li className="px-6 py-1 cursor-pointer ">View ERC721 Transfers</li>
+            <li className="px-6 py-1 cursor-pointer ">ERC1155 Top Tokens</li>
+            <li className="px-6 py-1 cursor-pointer ">
+              View ERC1155 Transfers
+            </li>
           </ul>
         </li>
       </ul>
@@ -94,7 +102,7 @@ function MegaMenu() {
   min-w-[18rem] py-5 border-t-[3px] border-t-blue-600 z-50
   "
           >
-            <li className="px-6 py-1 ">Charts & Stats</li>
+            <li className="px-6 py-1 cursor-pointer">Charts & Stats</li>
           </ul>
         </li>
       </ul>
@@ -121,19 +129,23 @@ function MegaMenu() {
             <li className="px-8 py-1  ">
               {" "}
               <li className="  px-8 py-1 font-bold text-lg ">Developers</li>
-              <li className="  px-8 py-1 ">APIs</li>
-              <li className="px-8 py-1 ">Verify Contract</li>
-              <li className="px-8 py-1 ">Byte to Opcode</li>
-              <li className="px-8 py-1 ">Contract Diff Checker</li>
-              <li className="px-8 py-1 ">Vyper Online Compiler</li>
+              <li className="  px-8 py-1 cursor-pointer ">APIs</li>
+              <li className="px-8 py-1 cursor-pointer ">Verify Contract</li>
+              <li className="px-8 py-1 cursor-pointer ">Byte to Opcode</li>
+              <li className="px-8 py-1 cursor-pointer ">
+                Contract Diff Checker
+              </li>
+              <li className="px-8 py-1 cursor-pointer ">
+                Vyper Online Compiler
+              </li>
             </li>
             <li className="px-8 py-1">
               {" "}
-              <li className="  px-8 py-1 font-bold text-lg ">Tools</li>
-              <li className="  px-8 py-1 ">Label Word Cloud</li>
-              <li className="px-8 py-1 ">Verified Signature</li>
-              <li className="px-8 py-1 ">Token Approvals</li>
-              <li className="px-8 py-1 ">L2 to L1 Relayer</li>
+              <li className="  px-8 py-1 font-bold text-lg">Tools</li>
+              <li className="  px-8 py-1 cursor-pointer ">Label Word Cloud</li>
+              <li className="px-8 py-1 cursor-pointer ">Verified Signature</li>
+              <li className="px-8 py-1 cursor-pointer ">Token Approvals</li>
+              <li className="px-8 py-1 cursor-pointer ">L2 to L1 Relayer</li>
             </li>
           </ul>
         </li>
@@ -161,12 +173,12 @@ function MegaMenu() {
           <ul
             className="bg-white border rounded-sm absolute top-[47px] right-[100%]
   transition duration-150 ease-in-out
-  min-w-[18rem] py-5 border-t-[3px] border-t-blue-600 z-50 arbitrum text-sm
+  min-w-[10rem] py-5 border-t-[3px] border-t-blue-600 z-50 arbitrum text-sm
   "
           >
-            <li className="px-8 py-1 ">Bethel One</li>
-            <li className="  px-8 py-1 ">Bethel Nova</li>
-            <li className="px-8 py-1 ">Bethel Goerli</li>
+            <li className="px-8 py-1 cursor-pointer ">Bethel One</li>
+            <li className="  px-8 py-1 cursor-pointer ">Bethel Nova</li>
+            <li className="px-8 py-1 cursor-pointer ">Bethel Goerli</li>
           </ul>
         </li>
       </ul>

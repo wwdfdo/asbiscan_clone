@@ -7,7 +7,7 @@ import statschart from "../../images/statsimage.jpg";
 
 const StatsComponent = () => {
   return (
-    <div className="border-green-500 bg-white border-[1px] w-11/12 mx-auto -mt-10 rounded-lg flex justify-between py-2 z-40">
+    <div className=" bg-white border-[1px] w-11/12 mx-auto -mt-10 rounded-lg flex justify-between py-2 z-40">
       <div className="flex flex-col justify-center items-start pl-5 gap-3  border-r-[1px] border-black border-opacity-40 w-1/3">
         <div className="flex justify-start items-center gap-2 ">
           <div className="w-[1.20313rem] h-[1.20313rem]">
