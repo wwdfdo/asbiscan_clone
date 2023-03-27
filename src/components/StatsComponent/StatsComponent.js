@@ -4,6 +4,8 @@ import marketcap from "../../images/markeycap.svg";
 import latestblock from "../../images/latestbook.svg";
 import latestbatch from "../../images/latestbatch.svg";
 import statschart from "../../images/statsimage.jpg";
+import Linechart from "../Linechart/Linechart";
+import RechartLine from "../RechartLine/RechartLine";
 
 const StatsComponent = () => {
   return (
@@ -63,7 +65,8 @@ const StatsComponent = () => {
         </div>
 
         <div className="flex justify-start ">
-          <img src={statschart} className="w-[400px]" alt="" />
+          {/* <Linechart /> */}
+          <RechartLine />
         </div>
       </div>
       <div></div>

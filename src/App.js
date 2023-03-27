@@ -4,7 +4,8 @@ import Banner from "./components/Banner/Banner";
 import StatsComponent from "./components/StatsComponent/StatsComponent";
 import Layout from "./components/Layout/Layout";
 import LatestDetails from "./components/LatestDetails/LatestDetails";
-import Linechart from "./components/Linechart/Linechart";
+// import RechartLine from "./components/RechartLine/RechartLine";
+// import Linechart from "./components/Linechart/Linechart";
 
 function App() {
   return (
@@ -13,7 +14,7 @@ function App() {
       <Banner />
       <StatsComponent />
       <LatestDetails />
-      {/* <Linechart /> */}
+      {/* <RechartLine /> */}
     </Layout>
   );
 }
