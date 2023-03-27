@@ -88,6 +88,46 @@ const LatestDetails = () => {
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-40 mx-3"></hr>
+          <div className="flex gap-4 items-center px-3">
+            <div className="w-8 h-8 bg-red-300 flex justify-center items-center rounded-xl">
+              BK
+            </div>
+            <div className="flex flex-col gap-1">
+              <div>72776138</div>
+              <div>33 secs ago4 txns in 0 secs0 ETH</div>
+            </div>
+          </div>
+          <hr className="border-[.5px] border-black border-opacity-40 mx-3"></hr>
+          <div className="flex gap-4 items-center px-3">
+            <div className="w-8 h-8 bg-red-300 flex justify-center items-center rounded-xl">
+              BK
+            </div>
+            <div className="flex flex-col gap-1">
+              <div>72776138</div>
+              <div>33 secs ago4 txns in 0 secs0 ETH</div>
+            </div>
+          </div>
+          <hr className="border-[.5px] border-black border-opacity-40 mx-3"></hr>
+          <div className="flex gap-4 items-center px-3">
+            <div className="w-8 h-8 bg-red-300 flex justify-center items-center rounded-xl">
+              BK
+            </div>
+            <div className="flex flex-col gap-1">
+              <div>72776138</div>
+              <div>33 secs ago4 txns in 0 secs0 ETH</div>
+            </div>
+          </div>
+          <hr className="border-[.5px] border-black border-opacity-40 mx-3"></hr>
+          <div className="flex gap-4 items-center px-3">
+            <div className="w-8 h-8 bg-red-300 flex justify-center items-center rounded-xl">
+              BK
+            </div>
+            <div className="flex flex-col gap-1">
+              <div>72776138</div>
+              <div>33 secs ago4 txns in 0 secs0 ETH</div>
+            </div>
+          </div>
+          <hr className="border-[.5px] border-black border-opacity-40 mx-3"></hr>
         </div>
         <div className="flex justify-center items-center w-full  rounded-br-lg rounded-bl-lg py-4 border-t-2 border-black border-opacity-25">
           <button className="text-white bg-blue-500 w-3/4 rounded-2xl py-1 text-sm">
@@ -126,6 +166,46 @@ const LatestDetails = () => {
             <div className="flex flex-col gap-1">
               <div>72776138</div>
               <div>33 secs ago4 txns in 0 secs0 ETH</div>
+            </div>
+          </div>
+          <hr className="border-[.5px] border-black border-opacity-40 mx-3"></hr>
+          <div className="flex gap-4 items-center px-3">
+            <div className="w-8 h-8 bg-red-300 flex justify-center items-center rounded-full">
+              Tx
+            </div>
+            <div className="flex flex-col gap-1">
+              <div>72776138</div>
+              <div>33 secs ago4 txns in 0 secs ETH</div>
+            </div>
+          </div>
+          <hr className="border-[.5px] border-black border-opacity-40 mx-3"></hr>
+          <div className="flex gap-4 items-center px-3">
+            <div className="w-8 h-8 bg-red-300 flex justify-center items-center rounded-full">
+              Tx
+            </div>
+            <div className="flex flex-col gap-1">
+              <div>72776138</div>
+              <div>33 secs ago4 txns in 0 secs ETH</div>
+            </div>
+          </div>
+          <hr className="border-[.5px] border-black border-opacity-40 mx-3"></hr>
+          <div className="flex gap-4 items-center px-3">
+            <div className="w-8 h-8 bg-red-300 flex justify-center items-center rounded-full">
+              Tx
+            </div>
+            <div className="flex flex-col gap-1">
+              <div>72776138</div>
+              <div>33 secs ago4 txns in 0 secs ETH</div>
+            </div>
+          </div>
+          <hr className="border-[.5px] border-black border-opacity-40 mx-3"></hr>
+          <div className="flex gap-4 items-center px-3">
+            <div className="w-8 h-8 bg-red-300 flex justify-center items-center rounded-full">
+              Tx
+            </div>
+            <div className="flex flex-col gap-1">
+              <div>72776138</div>
+              <div>33 secs ago4 txns in 0 secs ETH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-40 mx-3"></hr>
