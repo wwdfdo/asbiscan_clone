@@ -130,8 +130,8 @@ const LatestDetails = () => {
           <hr className="border-[.5px] border-black border-opacity-40 mx-3"></hr>
         </div>
         <div className="flex justify-center items-center w-full  rounded-br-lg rounded-bl-lg py-4 border-t-2 border-black border-opacity-25">
-          <button className="text-white bg-blue-500 w-3/4 rounded-2xl py-1 text-sm">
-            View more
+          <button className="hover:text-white text-blue-600  bg-blue-100 hover:bg-blue-400 w-4/5 rounded-2xl py-1 text-[.8rem] ease-in-out duration-300">
+            View all Blocks
           </button>
         </div>
       </div>
@@ -271,8 +271,8 @@ const LatestDetails = () => {
           <hr className="border-[.5px] border-black border-opacity-40 mx-3"></hr>
         </div>
         <div className="flex justify-center w-full  rounded-br-lg rounded-bl-lg py-4 border-t-2 border-black border-opacity-25">
-          <button className="text-white bg-blue-500 w-3/4 rounded-2xl py-1 text-sm">
-            View more
+          <button className="hover:text-white text-blue-600  bg-blue-100 hover:bg-blue-400 w-4/5 rounded-2xl py-1 text-[.8rem] ease-in-out duration-300">
+            View all Blocks
           </button>
         </div>
       </div>
