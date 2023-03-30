@@ -16,7 +16,7 @@ const StatsComponent = () => {
             <img src={etheriumprice} alt="" />
           </div>
           <div className="flex flex-col">
-            <div>ETHER PRICE</div>
+            <div>BTH PRICE</div>
             <div>$1,741.82 @ 0.06344 BTC (-3.59%)</div>
           </div>
         </div>
@@ -39,7 +39,7 @@ const StatsComponent = () => {
             <img src={etheriumprice} alt="" />
           </div>
           <div className="flex flex-col">
-            <div>ETHER PRICE</div>
+            <div>BTH PRICE</div>
             <div>$1,741.82 @ 0.06344 BTC (-3.59%)</div>
           </div>
         </div>

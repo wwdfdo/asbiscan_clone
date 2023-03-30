@@ -5,16 +5,17 @@ const LatestDetails = () => {
   return (
     <div className="w-3/4 mx-auto gap-10 flex justify-around  py-10 ">
       <div className="w-[100%] bg-slate-100 rounded-xl pt-5  px-2">
-        <div className=" flex flex-col gap-2    h-[500px] overflow-hidden hover:overflow-auto    px-5 ">
+        <div className=" flex flex-col gap-2    h-[500px] overflow-hidden hover:overflow-auto ease-in-out duration-300    px-5 ">
           <h4 className="px-5  py-3 text-lg font-bold">Latest Blocks</h4>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
+
           <div className="flex gap-4 items-center px-3">
             <div className="w-8 h-8 bg-red-300 flex justify-center items-center rounded-xl">
               BK
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs0 ETH</div>
+              <div>33 secs ago4 txns in 0 secs0 BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -24,7 +25,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs0 ETH</div>
+              <div>33 secs ago4 txns in 0 secs0 BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -34,7 +35,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs0 ETH</div>
+              <div>33 secs ago4 txns in 0 secs0 BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -44,7 +45,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs0 ETH</div>
+              <div>33 secs ago4 txns in 0 secs0 BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -54,7 +55,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs0 ETH</div>
+              <div>33 secs ago4 txns in 0 secs0 BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -64,7 +65,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs0 ETH</div>
+              <div>33 secs ago4 txns in 0 secs0 BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -74,7 +75,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs0 ETH</div>
+              <div>33 secs ago4 txns in 0 secs0 BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -84,7 +85,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs0 ETH</div>
+              <div>33 secs ago4 txns in 0 secs0 BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -94,7 +95,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs0 ETH</div>
+              <div>33 secs ago4 txns in 0 secs0 BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -104,7 +105,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs0 ETH</div>
+              <div>33 secs ago4 txns in 0 secs0 BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -114,17 +115,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs0 ETH</div>
-            </div>
-          </div>
-          <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
-          <div className="flex gap-4 items-center px-3">
-            <div className="w-8 h-8 bg-red-300 flex justify-center items-center rounded-xl">
-              BK
-            </div>
-            <div className="flex flex-col gap-1">
-              <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs0 ETH</div>
+              <div>33 secs ago4 txns in 0 secs0 BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -137,7 +128,7 @@ const LatestDetails = () => {
       </div>
       <div className="w-[100%] bg-slate-100 rounded-xl pt-5 px-2">
         <div className=" flex flex-col gap-2 bg-slate-100   h-[500px] overflow-hidden hover:overflow-auto  px-5 ">
-          <h4 className="px-5 py-3 text-lg font-bold">Latest Blocks</h4>
+          <h4 className="px-5 py-3 text-lg font-bold">Latest Transitions</h4>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
           <div className="flex gap-4 items-center px-3">
             <div className="w-8 h-8 bg-red-300 flex justify-center items-center rounded-full">
@@ -145,7 +136,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs0 ETH</div>
+              <div>33 secs ago4 txns in 0 secs0 BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -155,7 +146,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs0 ETH</div>
+              <div>33 secs ago4 txns in 0 secs0 BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -165,7 +156,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs0 ETH</div>
+              <div>33 secs ago4 txns in 0 secs0 BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -175,7 +166,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs ETH</div>
+              <div>33 secs ago4 txns in 0 secs BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -185,7 +176,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs ETH</div>
+              <div>33 secs ago4 txns in 0 secs BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -195,7 +186,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs ETH</div>
+              <div>33 secs ago4 txns in 0 secs BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -205,7 +196,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs ETH</div>
+              <div>33 secs ago4 txns in 0 secs BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -215,7 +206,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs ETH</div>
+              <div>33 secs ago4 txns in 0 secs BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -225,7 +216,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs ETH</div>
+              <div>33 secs ago4 txns in 0 secs BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -235,7 +226,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs ETH</div>
+              <div>33 secs ago4 txns in 0 secs BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -245,7 +236,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs ETH</div>
+              <div>33 secs ago4 txns in 0 secs BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -255,7 +246,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs ETH</div>
+              <div>33 secs ago4 txns in 0 secs BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
@@ -265,7 +256,7 @@ const LatestDetails = () => {
             </div>
             <div className="flex flex-col gap-1">
               <div>72776138</div>
-              <div>33 secs ago4 txns in 0 secs ETH</div>
+              <div>33 secs ago4 txns in 0 secs BTH</div>
             </div>
           </div>
           <hr className="border-[.5px] border-black border-opacity-10 mx-3"></hr>
