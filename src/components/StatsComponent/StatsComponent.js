@@ -59,7 +59,7 @@ const StatsComponent = () => {
       <div className="flex flex-col justify-center items-start pl-5 gap-5 pr-5">
         <div className="flex justify-between items-center">
           <div className="text-[.8rem]">
-            ARBITRUM TRANSACTION HISTORY LAST 14 DAYS
+            BETHEL TRANSACTION HISTORY LAST 14 DAYS
           </div>
           <div>...</div>
         </div>
